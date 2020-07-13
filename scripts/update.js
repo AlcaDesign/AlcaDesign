@@ -117,12 +117,16 @@ function codepenFeedToTable(feed) {
 	const height = 9 / 16 * width;
 	const itemsData = items.map(n => {
 		const { title, date, link } = n;
-		const src = `${link}/image/small.png`;
+		const penID = link.split('/').pop();
+		const ssBase = `https://assets.codepen.io/64018/internal`;
+		const ssEndpoint = `screenshots/pens/${penID}.default.png`;
+		const ssQS = new URLSearchParams({ width, height, quality: 80 });
+		const src = `${ssBase}/${ssEndpoint}?${ssQS}`;
 		const imgTag = createElement('img', { src, width, height });
 		const linkIt = content => {
 			return createElement(
 				'a',
-				{ href: link, target: '_blank', rel: 'noopener' },
+				{ href: link, rel: 'nofollow' },
 				content
 			);
 		}
