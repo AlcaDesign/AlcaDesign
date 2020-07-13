@@ -1,0 +1,24 @@
+{
+  "name": "alcadesign",
+  "version": "1.0.0",
+  "description": "<!--\r **AlcaDesign/AlcaDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "scripts/update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node scripts/update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlcaDesign/AlcaDesign.git"
+  },
+  "keywords": [],
+  "author": "Jacob \"Alca\" Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlcaDesign/AlcaDesign/issues"
+  },
+  "homepage": "https://github.com/AlcaDesign/AlcaDesign#readme",
+  "dependencies": {
+    "davefeedread": "^0.5.14"
+  }
+}
