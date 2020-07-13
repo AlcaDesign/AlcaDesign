@@ -68,7 +68,7 @@ function table(title, rows) {
 function createElement(tag, attr, content) {
 	let element = `<${tag}`;
 	if(attr) {
-		let a = Object.entries(attr).map(n => n.join('='));
+		let a = Object.entries(attr).map(([ key, val ]) => `${key}="${val}"`);
 		if(a) {
 			element += ' ' + a.join(' ');
 		}
