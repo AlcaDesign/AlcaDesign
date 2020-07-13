@@ -23,6 +23,8 @@ jobs:
       with:
         add: README.md
         message: 'Updating README'
+        author_name: Jacob Foster
+        author_email: jfost3@gmail.com
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 #     - run: npm ci
