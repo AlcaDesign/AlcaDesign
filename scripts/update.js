@@ -15,7 +15,8 @@ const dateStyle = 'medium';
 	}
 	const codepenTable = codepenFeedToTable(codepenFeed);
 	const replacers = [
-		[ '{{CODEPEN_TABLE}}', codepenTable ]
+		[ '{{CODEPEN_TABLE}}', codepenTable ],
+		[ '{{UPDATED_TIMESTAMP}}', new Date().toUTCString() ]
 	];
 	const result = replacers.reduce(
 		(p, [ search, replace ]) => p.replace(search, replace),

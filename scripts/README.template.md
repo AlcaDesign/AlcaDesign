@@ -3,3 +3,7 @@
 # My "Popular" CodePens
 
 {{CODEPEN_TABLE}}
+
+---
+
+###### Last updated: {{UPDATED_TIMESTAMP}}
