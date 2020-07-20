@@ -39,14 +39,14 @@
 		<td>Sep 24, 2017</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/pozevLq" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/pozevLq.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/pozevLq" rel="nofollow">Clock</a></td>
-		<td>Aug 30, 2019</td>
-	</tr>
-	<tr>
 		<td><a href="https://codepen.io/Alca/pen/mWBoOO" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/mWBoOO.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/mWBoOO" rel="nofollow">Corrupted, Grungy, Retro Text...</a></td>
 		<td>Mar 30, 2017</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/pozevLq" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/pozevLq.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/pozevLq" rel="nofollow">Clock</a></td>
+		<td>Aug 30, 2019</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/BZbPrE" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/BZbPrE.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Sun, 19 Jul 2020 05:02:49 GMT
+###### Last updated: Mon, 20 Jul 2020 05:02:33 GMT
