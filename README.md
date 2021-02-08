@@ -9,57 +9,57 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/VByeJd" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/VByeJd.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/VByeJd" rel="nofollow">Recreating "Motion Study" by...</a></td>
-		<td>Feb 5, 2020</td>
+		<td><a href="https://codepen.io/Alca/pen/LYbNBbQ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/LYbNBbQ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/LYbNBbQ" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 7, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/oPPbxN" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/oPPbxN.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/oPPbxN" rel="nofollow">Lissajous Table - Pannable</a></td>
-		<td>Sep 30, 2018</td>
+		<td><a href="https://codepen.io/Alca/pen/eYpQjzv" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/eYpQjzv.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/eYpQjzv" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 7, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/bWGMoz" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/bWGMoz.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/bWGMoz" rel="nofollow">Mock Chat Animation</a></td>
-		<td>Sep 25, 2017</td>
+		<td><a href="https://codepen.io/Alca/pen/gOLaKdE" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/gOLaKdE.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/gOLaKdE" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 4, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/wZXrKK" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/wZXrKK.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/wZXrKK" rel="nofollow">Interactive Photo Cards</a></td>
-		<td>Jul 13, 2020</td>
+		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
+		<td>Feb 4, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/qKvEmQ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/qKvEmQ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/qKvEmQ" rel="nofollow">Vine Squids</a></td>
-		<td>Feb 5, 2020</td>
+		<td><a href="https://codepen.io/Alca/pen/XeZBab" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/XeZBab.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/XeZBab" rel="nofollow">Canvas Template v2 - Base</a></td>
+		<td>Feb 4, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/pWEROj" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/pWEROj.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/pWEROj" rel="nofollow">Clock - Coding Train / Shiffm...</a></td>
-		<td>Sep 24, 2017</td>
+		<td><a href="https://codepen.io/Alca/pen/BaQNpzQ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/BaQNpzQ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/BaQNpzQ" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 2, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/mWBoOO" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/mWBoOO.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/mWBoOO" rel="nofollow">Corrupted, Grungy, Retro Text...</a></td>
-		<td>Mar 30, 2017</td>
+		<td><a href="https://codepen.io/Alca/pen/WNoNjZp" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/WNoNjZp.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/WNoNjZp" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 30, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/pozevLq" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/pozevLq.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/pozevLq" rel="nofollow">Clock</a></td>
-		<td>Aug 30, 2019</td>
+		<td><a href="https://codepen.io/Alca/pen/jOqEdQM" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/jOqEdQM.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/jOqEdQM" rel="nofollow">HexaPillars</a></td>
+		<td>Jan 30, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/BZbPrE" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/BZbPrE.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/BZbPrE" rel="nofollow">Slide Clock</a></td>
-		<td>Jul 21, 2017</td>
+		<td><a href="https://codepen.io/Alca/pen/bGBboRW" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/bGBboRW.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/bGBboRW" rel="nofollow">Wobbly Blob</a></td>
+		<td>Jan 28, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/oyOyVb" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/oyOyVb.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/oyOyVb" rel="nofollow">Mock Chat Animation (Canvas)</a></td>
-		<td>Feb 5, 2020</td>
+		<td><a href="https://codepen.io/Alca/pen/vYyBZGm" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/vYyBZGm.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/vYyBZGm" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 28, 2021</td>
 	</tr>
 </table>
 
 ---
 
-###### Last updated: Sun, 07 Feb 2021 05:03:48 GMT
+###### Last updated: Mon, 08 Feb 2021 05:13:52 GMT
