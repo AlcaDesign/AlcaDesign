@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
+		<td>Feb 9, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/LYbNBbQ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/LYbNBbQ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/LYbNBbQ" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Feb 7, 2021</td>
@@ -21,11 +26,6 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/gOLaKdE" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/gOLaKdE.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/gOLaKdE" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Feb 4, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
 		<td>Feb 4, 2021</td>
 	</tr>
 	<tr>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Mon, 08 Feb 2021 05:13:52 GMT
+###### Last updated: Tue, 09 Feb 2021 05:03:41 GMT
