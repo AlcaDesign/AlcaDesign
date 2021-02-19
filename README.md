@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/dyORYba" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyORYba.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/dyORYba" rel="nofollow">Mandala</a></td>
+		<td>Feb 18, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/OJRQrKa" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/OJRQrKa.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/OJRQrKa" rel="nofollow">Seconds into 2021</a></td>
 		<td>Feb 13, 2021</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/jOqEdQM" rel="nofollow">HexaPillars</a></td>
 		<td>Jan 30, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/bGBboRW" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/bGBboRW.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/bGBboRW" rel="nofollow">Wobbly Blob</a></td>
-		<td>Jan 28, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 18 Feb 2021 05:03:46 GMT
+###### Last updated: Fri, 19 Feb 2021 05:03:57 GMT
