@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/qBqXvaY" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/qBqXvaY.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/qBqXvaY" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 21, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyORYba" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyORYba.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/dyORYba" rel="nofollow">Mandala</a></td>
 		<td>Feb 18, 2021</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/WNoNjZp" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 30, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/jOqEdQM" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/jOqEdQM.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/jOqEdQM" rel="nofollow">HexaPillars</a></td>
-		<td>Jan 30, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 20 Feb 2021 05:03:43 GMT
+###### Last updated: Sun, 21 Feb 2021 05:03:40 GMT
