@@ -9,6 +9,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
+		<td>Feb 23, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/PobJdWz.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 22, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/jOMgNeQ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/jOMgNeQ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/jOMgNeQ" rel="nofollow">Twitch Clipper - ffmpeg comma...</a></td>
 		<td>Feb 22, 2021</td>
@@ -48,18 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/OJRQrKa" rel="nofollow">Seconds into 2021</a></td>
 		<td>Feb 13, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>Feb 9, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/LYbNBbQ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/LYbNBbQ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/LYbNBbQ" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Feb 7, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 22 Feb 2021 05:03:45 GMT
+###### Last updated: Tue, 23 Feb 2021 05:03:36 GMT
