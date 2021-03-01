@@ -9,13 +9,13 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>Feb 27, 2021</td>
+		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/PobJdWz.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow">Is A Twitch Channel Live?</a></td>
+		<td>Feb 28, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/PobJdWz.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
 		<td>Feb 27, 2021</td>
 	</tr>
 	<tr>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Sun, 28 Feb 2021 05:04:20 GMT
+###### Last updated: Mon, 01 Mar 2021 05:04:09 GMT
