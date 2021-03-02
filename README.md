@@ -9,9 +9,19 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/QWGrNzM" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/QWGrNzM.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/QWGrNzM" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Mar 2, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/WNoJbmv" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/WNoJbmv.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/WNoJbmv" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Mar 1, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/PobJdWz.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow">Is A Twitch Channel Live?</a></td>
-		<td>Feb 28, 2021</td>
+		<td>Mar 1, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
@@ -48,18 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/wvoqZjP" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Feb 21, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/qBqXvaY" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/qBqXvaY.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/qBqXvaY" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Feb 21, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/dyORYba" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyORYba.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/dyORYba" rel="nofollow">Mandala</a></td>
-		<td>Feb 18, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 01 Mar 2021 05:04:09 GMT
+###### Last updated: Tue, 02 Mar 2021 05:03:49 GMT
