@@ -9,6 +9,21 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/mdOKYGY" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/mdOKYGY.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/mdOKYGY" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Mar 4, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/zYoaQxN" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/zYoaQxN.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/zYoaQxN" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Mar 4, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/QQaKpv" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/QQaKpv.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/QQaKpv" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Mar 4, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/oNYyOpZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/oNYyOpZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/oNYyOpZ" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Mar 4, 2021</td>
@@ -43,23 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/WNoJbmv" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Mar 1, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/PobJdWz.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/PobJdWz" rel="nofollow">Is A Twitch Channel Live?</a></td>
-		<td>Mar 1, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/dyYJWBZ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>Feb 27, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/yLVodNJ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/yLVodNJ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/yLVodNJ" rel="nofollow">Mice - ultraMelt</a></td>
-		<td>Feb 21, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 04 Mar 2021 05:04:16 GMT
+###### Last updated: Fri, 05 Mar 2021 05:03:33 GMT
