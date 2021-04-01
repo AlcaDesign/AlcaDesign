@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/JjEEBxv" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/JjEEBxv.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/JjEEBxv" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Apr 1, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvgWVzP" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/wvgWVzP.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/wvgWVzP" rel="nofollow">Custom Twitch Chat Overlay -...</a></td>
 		<td>Mar 31, 2021</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/XeZBab" rel="nofollow">Canvas Template v2 - Base</a></td>
 		<td>Mar 8, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/mdOKYGY" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/mdOKYGY.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/mdOKYGY" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Mar 4, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Wed, 31 Mar 2021 05:12:15 GMT
+###### Last updated: Thu, 01 Apr 2021 05:16:44 GMT
