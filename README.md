@@ -11,7 +11,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/jOMgNeQ" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/jOMgNeQ.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/jOMgNeQ" rel="nofollow">Twitch Clipper - ffmpeg comma...</a></td>
-		<td>Apr 8, 2021</td>
+		<td>Apr 9, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/yLgzYJj" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/yLgzYJj.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Thu, 08 Apr 2021 05:16:25 GMT
+###### Last updated: Fri, 09 Apr 2021 05:15:15 GMT
