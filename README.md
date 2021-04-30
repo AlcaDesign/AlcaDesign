@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/MWJdRYy" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/MWJdRYy.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/MWJdRYy" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Apr 30, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvgEomz" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/wvgEomz.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/wvgEomz" rel="nofollow">MIDI Drum kit</a></td>
 		<td>Apr 29, 2021</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/OJWwbvW" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Apr 17, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/KKaoWwm" rel="nofollow"><img src="https://assets.codepen.io/64018/internal/screenshots/pens/KKaoWwm.default.png?width=100&height=56.25&quality=80" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/KKaoWwm" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Apr 13, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 29 Apr 2021 05:11:12 GMT
+###### Last updated: Fri, 30 Apr 2021 05:11:31 GMT
