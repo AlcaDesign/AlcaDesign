@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/RwaredM" rel="nofollow"><img src="https://codepen.io/alca/pen/RwaredM/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/RwaredM" rel="nofollow">Get Twitch User Data</a></td>
+		<td>May 5, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvJwwjG" rel="nofollow"><img src="https://codepen.io/alca/pen/wvJwwjG/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/wvJwwjG" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 4, 2021</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/wvgEomz" rel="nofollow">MIDI Drum kit</a></td>
 		<td>Apr 29, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/gOgENgQ" rel="nofollow"><img src="https://codepen.io/alca/pen/gOgENgQ/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/gOgENgQ" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Apr 27, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Tue, 04 May 2021 05:08:38 GMT
+###### Last updated: Wed, 05 May 2021 05:07:30 GMT
