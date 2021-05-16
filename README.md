@@ -11,12 +11,17 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://codepen.io/alca/pen/dyYJWBZ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>May 13, 2021</td>
+		<td>May 16, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/wvJGLLZ" rel="nofollow"><img src="https://codepen.io/alca/pen/wvJGLLZ/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/wvJGLLZ" rel="nofollow">Lil sus</a></td>
+		<td>May 15, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/RwaredM" rel="nofollow"><img src="https://codepen.io/alca/pen/RwaredM/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/RwaredM" rel="nofollow">Get Twitch User Data</a></td>
-		<td>May 11, 2021</td>
+		<td>May 15, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/jOMgNeQ" rel="nofollow"><img src="https://codepen.io/alca/pen/jOMgNeQ/image/default.png" width="100" height="56.25"></a></td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/xxgvYZj" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 3, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/MWJdRYy" rel="nofollow"><img src="https://codepen.io/alca/pen/MWJdRYy/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/MWJdRYy" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>May 3, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 15 May 2021 05:14:36 GMT
+###### Last updated: Sun, 16 May 2021 05:16:52 GMT
