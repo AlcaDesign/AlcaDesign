@@ -11,12 +11,12 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/GRWjMLq" rel="nofollow"><img src="https://codepen.io/alca/pen/GRWjMLq/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/GRWjMLq" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>May 18, 2021</td>
+		<td>May 20, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://codepen.io/alca/pen/dyYJWBZ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>May 16, 2021</td>
+		<td>May 20, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvJGLLZ" rel="nofollow"><img src="https://codepen.io/alca/pen/wvJGLLZ/image/default.png" width="100" height="56.25"></a></td>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Wed, 19 May 2021 05:15:17 GMT
+###### Last updated: Thu, 20 May 2021 05:16:01 GMT
