@@ -11,7 +11,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://codepen.io/alca/pen/dyYJWBZ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>May 22, 2021</td>
+		<td>May 24, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvJgwGV" rel="nofollow"><img src="https://codepen.io/alca/pen/wvJgwGV/image/default.png" width="100" height="56.25"></a></td>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Sun, 23 May 2021 05:21:07 GMT
+###### Last updated: Mon, 24 May 2021 05:21:44 GMT
