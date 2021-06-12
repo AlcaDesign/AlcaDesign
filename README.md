@@ -9,9 +9,19 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/XWMxEVd" rel="nofollow"><img src="https://codepen.io/alca/pen/XWMxEVd/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/XWMxEVd" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jun 12, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/LYWyZwo" rel="nofollow"><img src="https://codepen.io/alca/pen/LYWyZwo/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/LYWyZwo" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jun 12, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://codepen.io/alca/pen/dyYJWBZ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>Jun 10, 2021</td>
+		<td>Jun 12, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/abJGvdj" rel="nofollow"><img src="https://codepen.io/alca/pen/abJGvdj/image/default.png" width="100" height="56.25"></a></td>
@@ -22,11 +32,6 @@
 		<td><a href="https://codepen.io/Alca/pen/bGqMGbE" rel="nofollow"><img src="https://codepen.io/alca/pen/bGqMGbE/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/bGqMGbE" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jun 5, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/LYWyZwo" rel="nofollow"><img src="https://codepen.io/alca/pen/LYWyZwo/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/LYWyZwo" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>May 28, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvgEomz" rel="nofollow"><img src="https://codepen.io/alca/pen/wvgEomz/image/default.png" width="100" height="56.25"></a></td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/wvJGLLZ" rel="nofollow">Lil sus</a></td>
 		<td>May 15, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/RwaredM" rel="nofollow"><img src="https://codepen.io/alca/pen/RwaredM/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/RwaredM" rel="nofollow">Get Twitch User Data</a></td>
-		<td>May 15, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Fri, 11 Jun 2021 05:12:53 GMT
+###### Last updated: Sat, 12 Jun 2021 05:09:20 GMT
