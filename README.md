@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/yLMGzeb" rel="nofollow"><img src="https://codepen.io/alca/pen/yLMGzeb/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/yLMGzeb" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jun 15, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://codepen.io/alca/pen/dyYJWBZ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
 		<td>Jun 13, 2021</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/GRWjMLq" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 20, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/wvJGLLZ" rel="nofollow"><img src="https://codepen.io/alca/pen/wvJGLLZ/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/wvJGLLZ" rel="nofollow">Lil sus</a></td>
-		<td>May 15, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Tue, 15 Jun 2021 05:10:30 GMT
+###### Last updated: Wed, 16 Jun 2021 05:10:22 GMT
