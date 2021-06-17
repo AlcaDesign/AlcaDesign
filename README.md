@@ -9,14 +9,19 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/yLMGzeb" rel="nofollow"><img src="https://codepen.io/alca/pen/yLMGzeb/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/yLMGzeb" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jun 15, 2021</td>
-	</tr>
-	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://codepen.io/alca/pen/dyYJWBZ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>Jun 13, 2021</td>
+		<td>Jun 17, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/yLMZENJ" rel="nofollow"><img src="https://codepen.io/alca/pen/yLMZENJ/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/yLMZENJ" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jun 17, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/yLMGzeb" rel="nofollow"><img src="https://codepen.io/alca/pen/yLMGzeb/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/yLMGzeb" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jun 17, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWMxEVd" rel="nofollow"><img src="https://codepen.io/alca/pen/XWMxEVd/image/default.png" width="100" height="56.25"></a></td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/wvJgwGV" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 20, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/GRWjMLq" rel="nofollow"><img src="https://codepen.io/alca/pen/GRWjMLq/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/GRWjMLq" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>May 20, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Wed, 16 Jun 2021 05:10:22 GMT
+###### Last updated: Thu, 17 Jun 2021 05:09:59 GMT
