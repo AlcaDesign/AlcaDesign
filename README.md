@@ -9,9 +9,14 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow"><img src="https://codepen.io/alca/pen/dyYJWBZ/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/dyYJWBZ" rel="nofollow">Time Layout</a></td>
-		<td>Jun 23, 2021</td>
+		<td><a href="https://codepen.io/Alca/pen/rNmBpOw" rel="nofollow"><img src="https://codepen.io/alca/pen/rNmBpOw/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/rNmBpOw" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jun 27, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/QWvLyzg" rel="nofollow"><img src="https://codepen.io/alca/pen/QWvLyzg/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/QWvLyzg" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jun 26, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/oNZVJRe" rel="nofollow"><img src="https://codepen.io/alca/pen/oNZVJRe/image/default.png" width="100" height="56.25"></a></td>
@@ -21,7 +26,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/eYvXZwV" rel="nofollow"><img src="https://codepen.io/alca/pen/eYvXZwV/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/eYvXZwV" rel="nofollow">Ishihara</a></td>
-		<td>Jun 18, 2021</td>
+		<td>Jun 26, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/yLMZENJ" rel="nofollow"><img src="https://codepen.io/alca/pen/yLMZENJ/image/default.png" width="100" height="56.25"></a></td>
@@ -39,11 +44,6 @@
 		<td>Jun 12, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/LYWyZwo" rel="nofollow"><img src="https://codepen.io/alca/pen/LYWyZwo/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/LYWyZwo" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jun 12, 2021</td>
-	</tr>
-	<tr>
 		<td><a href="https://codepen.io/Alca/pen/abJGvdj" rel="nofollow"><img src="https://codepen.io/alca/pen/abJGvdj/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/abJGvdj" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jun 5, 2021</td>
@@ -54,12 +54,12 @@
 		<td>Jun 5, 2021</td>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/wvgEomz" rel="nofollow"><img src="https://codepen.io/alca/pen/wvgEomz/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/wvgEomz" rel="nofollow">MIDI Drum kit</a></td>
+		<td><a href="https://codepen.io/Alca/pen/mdWMExa" rel="nofollow"><img src="https://codepen.io/alca/pen/mdWMExa/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/mdWMExa" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 27, 2021</td>
 	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 26 Jun 2021 05:04:01 GMT
+###### Last updated: Sun, 27 Jun 2021 05:04:14 GMT
