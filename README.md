@@ -9,6 +9,36 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/JjNvmqQ" rel="nofollow"><img src="https://codepen.io/alca/pen/JjNvmqQ/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/JjNvmqQ" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jul 31, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/xxdjyNN" rel="nofollow"><img src="https://codepen.io/alca/pen/xxdjyNN/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/xxdjyNN" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jul 31, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/bGWMvEa" rel="nofollow"><img src="https://codepen.io/alca/pen/bGWMvEa/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/bGWMvEa" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jul 31, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/qBmYxYw" rel="nofollow"><img src="https://codepen.io/alca/pen/qBmYxYw/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/qBmYxYw" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jul 30, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/zYwjpJd" rel="nofollow"><img src="https://codepen.io/alca/pen/zYwjpJd/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/zYwjpJd" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jul 30, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/ExmLbNY" rel="nofollow"><img src="https://codepen.io/alca/pen/ExmLbNY/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/ExmLbNY" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jul 30, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvdmvdY" rel="nofollow"><img src="https://codepen.io/alca/pen/wvdmvdY/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/wvdmvdY" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jul 28, 2021</td>
@@ -28,38 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/RwVQemg" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jul 28, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/rNmYERY" rel="nofollow"><img src="https://codepen.io/alca/pen/rNmYERY/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/rNmYERY" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jul 25, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/NWjwRwa" rel="nofollow"><img src="https://codepen.io/alca/pen/NWjwRwa/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/NWjwRwa" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jul 24, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/xxdPwma" rel="nofollow"><img src="https://codepen.io/alca/pen/xxdPwma/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/xxdPwma" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jul 23, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/oNWWPJE" rel="nofollow"><img src="https://codepen.io/alca/pen/oNWWPJE/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/oNWWPJE" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jul 17, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/LYyxwVz" rel="nofollow"><img src="https://codepen.io/alca/pen/LYyxwVz/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/LYyxwVz" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jul 15, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/XWRKVNP" rel="nofollow"><img src="https://codepen.io/alca/pen/XWRKVNP/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/XWRKVNP" rel="nofollow">Get Twitch Channel Videos</a></td>
-		<td>Jul 9, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Fri, 30 Jul 2021 05:04:31 GMT
+###### Last updated: Sat, 31 Jul 2021 05:04:33 GMT
