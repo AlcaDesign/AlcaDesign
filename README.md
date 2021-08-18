@@ -16,7 +16,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/PomvzeO" rel="nofollow"><img src="https://codepen.io/alca/pen/PomvzeO/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/PomvzeO" rel="nofollow">Square Wave</a></td>
-		<td>Aug 17, 2021</td>
+		<td>Aug 18, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/oNWORaK" rel="nofollow"><img src="https://codepen.io/alca/pen/oNWORaK/image/default.png" width="100" height="56.25"></a></td>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Tue, 17 Aug 2021 05:04:46 GMT
+###### Last updated: Wed, 18 Aug 2021 05:04:30 GMT
