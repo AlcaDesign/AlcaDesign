@@ -9,6 +9,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/PojxRBj" rel="nofollow"><img src="https://codepen.io/alca/pen/PojxRBj/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/PojxRBj" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Sep 28, 2021</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/BaZGJWP" rel="nofollow"><img src="https://codepen.io/alca/pen/BaZGJWP/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/BaZGJWP" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Sep 27, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/powQdZO" rel="nofollow"><img src="https://codepen.io/alca/pen/powQdZO/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/powQdZO" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Sep 27, 2021</td>
@@ -48,18 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/yLXeNgp" rel="nofollow">Undulating Line Sphere</a></td>
 		<td>Aug 30, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/jOwboaY" rel="nofollow"><img src="https://codepen.io/alca/pen/jOwboaY/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/jOwboaY" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Aug 30, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/XWgmYay" rel="nofollow"><img src="https://codepen.io/alca/pen/XWgmYay/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/XWgmYay" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Aug 29, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 27 Sep 2021 05:05:16 GMT
+###### Last updated: Tue, 28 Sep 2021 05:05:10 GMT
