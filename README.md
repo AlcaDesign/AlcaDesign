@@ -9,8 +9,13 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/BaZboJo" rel="nofollow"><img src="https://codepen.io/alca/pen/BaZboJo/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/BaZboJo" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Sep 30, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWgGbKm" rel="nofollow"><img src="https://codepen.io/alca/pen/XWgGbKm/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/XWgGbKm" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td><a href="https://codepen.io/Alca/pen/XWgGbKm" rel="nofollow">Sparkly Stars</a></td>
 		<td>Sep 30, 2021</td>
 	</tr>
 	<tr>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/YzQYJoB" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Sep 17, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/xxrpbBq" rel="nofollow"><img src="https://codepen.io/alca/pen/xxrpbBq/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/xxrpbBq" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Sep 16, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 30 Sep 2021 05:05:12 GMT
+###### Last updated: Fri, 01 Oct 2021 05:05:19 GMT
