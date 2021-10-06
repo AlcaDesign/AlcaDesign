@@ -26,7 +26,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWgGbKm" rel="nofollow"><img src="https://codepen.io/alca/pen/XWgGbKm/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/XWgGbKm" rel="nofollow">Sparkly Stars</a></td>
-		<td>Oct 1, 2021</td>
+		<td>Oct 5, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/qBjLozB" rel="nofollow"><img src="https://codepen.io/alca/pen/qBjLozB/image/default.png" width="100" height="56.25"></a></td>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Tue, 05 Oct 2021 05:05:26 GMT
+###### Last updated: Wed, 06 Oct 2021 05:05:31 GMT
