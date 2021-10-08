@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/JjJgzgW" rel="nofollow"><img src="https://codepen.io/alca/pen/JjJgzgW/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/JjJgzgW" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Oct 7, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/KKqjgMM" rel="nofollow"><img src="https://codepen.io/alca/pen/KKqjgMM/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/KKqjgMM" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Oct 5, 2021</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/powQdZO" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Sep 27, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/LYLXOdE" rel="nofollow"><img src="https://codepen.io/alca/pen/LYLXOdE/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/LYLXOdE" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Sep 27, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 07 Oct 2021 05:05:30 GMT
+###### Last updated: Fri, 08 Oct 2021 05:05:20 GMT
