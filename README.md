@@ -21,7 +21,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/zYzXXMy" rel="nofollow"><img src="https://codepen.io/alca/pen/zYzXXMy/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/zYzXXMy" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Oct 3, 2021</td>
+		<td>Oct 9, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/BaZboJo" rel="nofollow"><img src="https://codepen.io/alca/pen/BaZboJo/image/default.png" width="100" height="56.25"></a></td>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Sat, 09 Oct 2021 05:04:56 GMT
+###### Last updated: Sun, 10 Oct 2021 05:05:04 GMT
