@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/KKXVXOm" rel="nofollow"><img src="https://codepen.io/alca/pen/KKXVXOm/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/KKXVXOm" rel="nofollow">Hitomezashi Stitch Patterns</a></td>
+		<td>Dec 6, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/ZEXEmjQ" rel="nofollow"><img src="https://codepen.io/alca/pen/ZEXEmjQ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/ZEXEmjQ" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Nov 30, 2021</td>
@@ -51,15 +56,10 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/GRvyzzN" rel="nofollow"><img src="https://codepen.io/alca/pen/GRvyzzN/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/GRvyzzN" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Nov 5, 2021</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/MWvrwwQ" rel="nofollow"><img src="https://codepen.io/alca/pen/MWvrwwQ/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/MWvrwwQ" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Nov 3, 2021</td>
+		<td>Dec 6, 2021</td>
 	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 06 Dec 2021 05:07:11 GMT
+###### Last updated: Tue, 07 Dec 2021 05:07:51 GMT
