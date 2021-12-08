@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/WNZwKRo" rel="nofollow"><img src="https://codepen.io/alca/pen/WNZwKRo/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/WNZwKRo" rel="nofollow">DVD Bounce - SCSS Only</a></td>
+		<td>Dec 8, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/KKXVXOm" rel="nofollow"><img src="https://codepen.io/alca/pen/KKXVXOm/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/KKXVXOm" rel="nofollow">Hitomezashi Stitch Patterns</a></td>
 		<td>Dec 6, 2021</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/abyqEZp" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Nov 11, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/GRvyzzN" rel="nofollow"><img src="https://codepen.io/alca/pen/GRvyzzN/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/GRvyzzN" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 6, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Tue, 07 Dec 2021 05:07:51 GMT
+###### Last updated: Wed, 08 Dec 2021 05:06:57 GMT
