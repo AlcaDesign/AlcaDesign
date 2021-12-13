@@ -9,14 +9,19 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/yLzVvYx" rel="nofollow"><img src="https://codepen.io/alca/pen/yLzVvYx/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/yLzVvYx" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Dec 13, 2021</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/vYeyOwd" rel="nofollow"><img src="https://codepen.io/alca/pen/vYeyOwd/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/vYeyOwd" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td><a href="https://codepen.io/Alca/pen/vYeyOwd" rel="nofollow">Recreating "Minimal keyboard"...</a></td>
 		<td>Dec 12, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/WNZwKRo" rel="nofollow"><img src="https://codepen.io/alca/pen/WNZwKRo/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/WNZwKRo" rel="nofollow">DVD Bounce - SCSS Only</a></td>
-		<td>Dec 8, 2021</td>
+		<td>Dec 13, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/KKXVXOm" rel="nofollow"><img src="https://codepen.io/alca/pen/KKXVXOm/image/default.png" width="100" height="56.25"></a></td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/rNzrqWa" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Nov 11, 2021</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/rNzKgjx" rel="nofollow"><img src="https://codepen.io/alca/pen/rNzKgjx/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/rNzKgjx" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Nov 10, 2021</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sun, 12 Dec 2021 05:05:57 GMT
+###### Last updated: Mon, 13 Dec 2021 05:06:14 GMT
