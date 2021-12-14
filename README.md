@@ -11,12 +11,12 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/yLzVvYx" rel="nofollow"><img src="https://codepen.io/alca/pen/yLzVvYx/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/yLzVvYx" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 13, 2021</td>
+		<td>Dec 14, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/vYeyOwd" rel="nofollow"><img src="https://codepen.io/alca/pen/vYeyOwd/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/vYeyOwd" rel="nofollow">Recreating "Minimal keyboard"...</a></td>
-		<td>Dec 12, 2021</td>
+		<td>Dec 13, 2021</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/WNZwKRo" rel="nofollow"><img src="https://codepen.io/alca/pen/WNZwKRo/image/default.png" width="100" height="56.25"></a></td>
@@ -62,4 +62,4 @@
 
 ---
 
-###### Last updated: Mon, 13 Dec 2021 05:06:14 GMT
+###### Last updated: Tue, 14 Dec 2021 05:06:28 GMT
