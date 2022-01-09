@@ -9,6 +9,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/ExweNEE" rel="nofollow"><img src="https://codepen.io/alca/pen/ExweNEE/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/ExweNEE" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 9, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/abLjLBY" rel="nofollow"><img src="https://codepen.io/alca/pen/abLjLBY/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/abLjLBY" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 7, 2022</td>
@@ -53,13 +58,8 @@
 		<td><a href="https://codepen.io/Alca/pen/ZEXxvjv" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 2, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/qBPoRVX" rel="nofollow"><img src="https://codepen.io/alca/pen/qBPoRVX/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/qBPoRVX" rel="nofollow">2022 New Year Fireworks!</a></td>
-		<td>Jan 2, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 08 Jan 2022 05:08:15 GMT
+###### Last updated: Sun, 09 Jan 2022 05:08:29 GMT
