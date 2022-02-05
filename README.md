@@ -10,9 +10,14 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/PoOGxdm" rel="nofollow"><img src="https://codepen.io/alca/pen/PoOGxdm/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/PoOGxdm" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 5, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/oNoLGYQ" rel="nofollow"><img src="https://codepen.io/alca/pen/oNoLGYQ/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/oNoLGYQ" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Feb 3, 2022</td>
+		<td><a href="https://codepen.io/Alca/pen/oNoLGYQ" rel="nofollow">Rudeism</a></td>
+		<td>Feb 4, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/jOGovEj" rel="nofollow"><img src="https://codepen.io/alca/pen/jOGovEj/image/default.png" width="100" height="56.25"></a></td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/poWxWdg" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 11, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/BawqRGB" rel="nofollow"><img src="https://codepen.io/alca/pen/BawqRGB/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/BawqRGB" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jan 11, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Fri, 04 Feb 2022 05:04:08 GMT
+###### Last updated: Sat, 05 Feb 2022 05:06:02 GMT
 -->
