@@ -12,7 +12,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/ExoYNjp" rel="nofollow"><img src="https://codepen.io/alca/pen/ExoYNjp/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/ExoYNjp" rel="nofollow">Elden Ring Rune Calculator</a></td>
-		<td>Mar 11, 2022</td>
+		<td>Mar 18, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/zYPPVdX" rel="nofollow"><img src="https://codepen.io/alca/pen/zYPPVdX/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Fri, 18 Mar 2022 05:01:18 GMT
+###### Last updated: Sat, 19 Mar 2022 05:01:15 GMT
 -->
