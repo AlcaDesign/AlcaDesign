@@ -10,6 +10,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/XWVQvYd" rel="nofollow"><img src="https://codepen.io/alca/pen/XWVQvYd/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/XWVQvYd" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Apr 24, 2022</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/oNpOMzv" rel="nofollow"><img src="https://codepen.io/alca/pen/oNpOMzv/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/oNpOMzv" rel="nofollow">Staircase</a></td>
+		<td>Apr 24, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWVoWoM" rel="nofollow"><img src="https://codepen.io/alca/pen/XWVoWoM/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/XWVoWoM" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Apr 18, 2022</td>
@@ -49,19 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/ExoYNjp" rel="nofollow">Elden Ring Rune Calculator</a></td>
 		<td>Mar 18, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/zYPPVdX" rel="nofollow"><img src="https://codepen.io/alca/pen/zYPPVdX/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/zYPPVdX" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Feb 23, 2022</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/qBVVjLN" rel="nofollow"><img src="https://codepen.io/alca/pen/qBVVjLN/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/qBVVjLN" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Feb 17, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 23 Apr 2022 05:01:19 GMT
+###### Last updated: Sun, 24 Apr 2022 05:01:22 GMT
 -->
