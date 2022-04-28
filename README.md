@@ -17,7 +17,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/oNpOMzv" rel="nofollow"><img src="https://codepen.io/alca/pen/oNpOMzv/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/oNpOMzv" rel="nofollow">Staircase</a></td>
-		<td>Apr 24, 2022</td>
+		<td>Apr 27, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWVoWoM" rel="nofollow"><img src="https://codepen.io/alca/pen/XWVoWoM/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Wed, 27 Apr 2022 05:10:40 GMT
+###### Last updated: Thu, 28 Apr 2022 05:18:10 GMT
 -->
