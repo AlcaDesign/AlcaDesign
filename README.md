@@ -17,12 +17,12 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWZWKzM" rel="nofollow"><img src="https://codepen.io/alca/pen/XWZWKzM/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/XWZWKzM" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>May 1, 2022</td>
+		<td>May 2, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/KKQPOmX" rel="nofollow"><img src="https://codepen.io/alca/pen/KKQPOmX/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/KKQPOmX" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Apr 30, 2022</td>
+		<td>May 2, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/eYVOwwG" rel="nofollow"><img src="https://codepen.io/alca/pen/eYVOwwG/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Sun, 01 May 2022 05:05:55 GMT
+###### Last updated: Mon, 02 May 2022 05:11:40 GMT
 -->
