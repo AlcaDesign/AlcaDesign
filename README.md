@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/ExQPbmz" rel="nofollow"><img src="https://codepen.io/alca/pen/ExQPbmz/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/ExQPbmz" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>May 8, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/abqvLMx" rel="nofollow"><img src="https://codepen.io/alca/pen/abqvLMx/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/abqvLMx" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 6, 2022</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/oNpOMzv" rel="nofollow">Staircase</a></td>
 		<td>Apr 27, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/XWVoWoM" rel="nofollow"><img src="https://codepen.io/alca/pen/XWVoWoM/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/XWVoWoM" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Apr 18, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 07 May 2022 05:01:15 GMT
+###### Last updated: Sun, 08 May 2022 05:01:43 GMT
 -->
