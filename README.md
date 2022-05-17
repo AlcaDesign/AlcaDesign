@@ -12,7 +12,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/NWybJXP" rel="nofollow"><img src="https://codepen.io/alca/pen/NWybJXP/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/NWybJXP" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>May 15, 2022</td>
+		<td>May 16, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/RwQoKyO" rel="nofollow"><img src="https://codepen.io/alca/pen/RwQoKyO/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Mon, 16 May 2022 05:05:09 GMT
+###### Last updated: Tue, 17 May 2022 05:05:16 GMT
 -->
