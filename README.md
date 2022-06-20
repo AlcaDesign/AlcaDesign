@@ -11,8 +11,8 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/vYdMWWj" rel="nofollow"><img src="https://codepen.io/alca/pen/vYdMWWj/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/vYdMWWj" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jun 19, 2022</td>
+		<td><a href="https://codepen.io/Alca/pen/vYdMWWj" rel="nofollow">Cardboard_Cowboy Font</a></td>
+		<td>Jun 20, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/mdXadMb" rel="nofollow"><img src="https://codepen.io/alca/pen/mdXadMb/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Sun, 19 Jun 2022 05:03:05 GMT
+###### Last updated: Mon, 20 Jun 2022 05:01:46 GMT
 -->
