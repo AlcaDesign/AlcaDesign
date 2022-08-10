@@ -11,8 +11,8 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/WNzyaBV" rel="nofollow"><img src="https://codepen.io/alca/pen/WNzyaBV/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/WNzyaBV" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Aug 9, 2022</td>
+		<td><a href="https://codepen.io/Alca/pen/WNzyaBV" rel="nofollow">FreckleBytes Overlay Animation</a></td>
+		<td>Aug 10, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/JjLOLEY" rel="nofollow"><img src="https://codepen.io/alca/pen/JjLOLEY/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Tue, 09 Aug 2022 05:07:56 GMT
+###### Last updated: Wed, 10 Aug 2022 05:01:19 GMT
 -->
