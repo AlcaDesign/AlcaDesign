@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/bGvZpEP" rel="nofollow"><img src="https://codepen.io/alca/pen/bGvZpEP/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/bGvZpEP" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Aug 22, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/WNzyaBV" rel="nofollow"><img src="https://codepen.io/alca/pen/WNzyaBV/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/WNzyaBV" rel="nofollow">FreckleBytes Overlay Animation</a></td>
 		<td>Aug 10, 2022</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/mdXadMb" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jun 12, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/dydQYKy" rel="nofollow"><img src="https://codepen.io/alca/pen/dydQYKy/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/dydQYKy" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jun 10, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sun, 21 Aug 2022 05:03:56 GMT
+###### Last updated: Mon, 22 Aug 2022 05:21:54 GMT
 -->
