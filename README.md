@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/qBYEdEM" rel="nofollow"><img src="https://codepen.io/alca/pen/qBYEdEM/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/qBYEdEM" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Sep 4, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/xxWNEZe" rel="nofollow"><img src="https://codepen.io/alca/pen/xxWNEZe/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/xxWNEZe" rel="nofollow">IngameAsylum 3.0 Launch...</a></td>
 		<td>Aug 25, 2022</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/qBxGVpR" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jun 21, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/vYdMWWj" rel="nofollow"><img src="https://codepen.io/alca/pen/vYdMWWj/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/vYdMWWj" rel="nofollow">Cardboard_Cowboy Font</a></td>
-		<td>Jun 20, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 03 Sep 2022 05:13:49 GMT
+###### Last updated: Sun, 04 Sep 2022 05:15:19 GMT
 -->
