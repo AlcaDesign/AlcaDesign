@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/BaxwGJy" rel="nofollow"><img src="https://codepen.io/alca/pen/BaxwGJy/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/BaxwGJy" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Sep 24, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWqgvqJ" rel="nofollow"><img src="https://codepen.io/alca/pen/XWqgvqJ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/XWqgvqJ" rel="nofollow">Tiled image viewer (MidJourney)</a></td>
 		<td>Sep 22, 2022</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/WNzyaBV" rel="nofollow">FreckleBytes Overlay Animation</a></td>
 		<td>Aug 10, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/JjLOLEY" rel="nofollow"><img src="https://codepen.io/alca/pen/JjLOLEY/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/JjLOLEY" rel="nofollow">Sick Jams</a></td>
-		<td>Jul 29, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Fri, 23 Sep 2022 05:28:03 GMT
+###### Last updated: Sat, 24 Sep 2022 05:21:42 GMT
 -->
