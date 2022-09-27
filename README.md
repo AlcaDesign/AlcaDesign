@@ -10,6 +10,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/xxjpqYm" rel="nofollow"><img src="https://codepen.io/alca/pen/xxjpqYm/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/xxjpqYm" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Sep 27, 2022</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/gOzoMqJ" rel="nofollow"><img src="https://codepen.io/alca/pen/gOzoMqJ/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/gOzoMqJ" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Sep 27, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/BaxwGJy" rel="nofollow"><img src="https://codepen.io/alca/pen/BaxwGJy/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/BaxwGJy" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Sep 24, 2022</td>
@@ -49,19 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/xxWNEZe" rel="nofollow">IngameAsylum 3.0 Launch...</a></td>
 		<td>Aug 25, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/bGvZpEP" rel="nofollow"><img src="https://codepen.io/alca/pen/bGvZpEP/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/bGvZpEP" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Aug 22, 2022</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/WNzyaBV" rel="nofollow"><img src="https://codepen.io/alca/pen/WNzyaBV/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/WNzyaBV" rel="nofollow">FreckleBytes Overlay Animation</a></td>
-		<td>Aug 10, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 26 Sep 2022 05:29:05 GMT
+###### Last updated: Tue, 27 Sep 2022 05:26:26 GMT
 -->
