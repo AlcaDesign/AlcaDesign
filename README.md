@@ -16,8 +16,8 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/oNddvYV" rel="nofollow"><img src="https://codepen.io/alca/pen/oNddvYV/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/oNddvYV" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Oct 2, 2022</td>
+		<td><a href="https://codepen.io/Alca/pen/oNddvYV" rel="nofollow">Simple Cube Example</a></td>
+		<td>Oct 4, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/BaxJbbg" rel="nofollow"><img src="https://codepen.io/alca/pen/BaxJbbg/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Mon, 03 Oct 2022 05:16:15 GMT
+###### Last updated: Tue, 04 Oct 2022 05:19:37 GMT
 -->
