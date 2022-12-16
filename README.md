@@ -10,8 +10,13 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/poKMRXz" rel="nofollow"><img src="https://codepen.io/alca/pen/poKMRXz/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/poKMRXz" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Dec 15, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/dyKBdWb" rel="nofollow"><img src="https://codepen.io/alca/pen/dyKBdWb/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/dyKBdWb" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td><a href="https://codepen.io/Alca/pen/dyKBdWb" rel="nofollow">Twitch 2022 Recaps Scatterplo...</a></td>
 		<td>Dec 15, 2022</td>
 	</tr>
 	<tr>
@@ -46,22 +51,17 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/yLEwWYG" rel="nofollow"><img src="https://codepen.io/alca/pen/yLEwWYG/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/yLEwWYG" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 12, 2022</td>
+		<td><a href="https://codepen.io/Alca/pen/yLEwWYG" rel="nofollow">AoC - Day 9 Visualization</a></td>
+		<td>Dec 15, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/LYraNJj" rel="nofollow"><img src="https://codepen.io/alca/pen/LYraNJj/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/LYraNJj" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Dec 8, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/abKPZRx" rel="nofollow"><img src="https://codepen.io/alca/pen/abKPZRx/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/abKPZRx" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 5, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 15 Dec 2022 05:01:25 GMT
+###### Last updated: Fri, 16 Dec 2022 05:01:31 GMT
 -->
