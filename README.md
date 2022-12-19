@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/bGjGVwR" rel="nofollow"><img src="https://codepen.io/alca/pen/bGjGVwR/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/bGjGVwR" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Dec 19, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/PoBYYEZ" rel="nofollow"><img src="https://codepen.io/alca/pen/PoBYYEZ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/PoBYYEZ" rel="nofollow">Advent of Code 2022 -...</a></td>
 		<td>Dec 16, 2022</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/wvXOLgL" rel="nofollow">Flock feesh</a></td>
 		<td>Dec 17, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/BaVbgBM" rel="nofollow"><img src="https://codepen.io/alca/pen/BaVbgBM/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/BaVbgBM" rel="nofollow">feesh</a></td>
-		<td>Dec 9, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sun, 18 Dec 2022 05:01:18 GMT
+###### Last updated: Mon, 19 Dec 2022 05:01:27 GMT
 -->
