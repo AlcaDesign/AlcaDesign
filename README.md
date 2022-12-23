@@ -10,9 +10,14 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/XWBbavJ" rel="nofollow"><img src="https://codepen.io/alca/pen/XWBbavJ/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/XWBbavJ" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Dec 23, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvxvbmv" rel="nofollow"><img src="https://codepen.io/alca/pen/wvxvbmv/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/wvxvbmv" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 20, 2022</td>
+		<td>Dec 23, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/eYjYxXe" rel="nofollow"><img src="https://codepen.io/alca/pen/eYjYxXe/image/default.png" width="100" height="56.25"></a></td>
@@ -22,7 +27,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/BaPaGVZ" rel="nofollow"><img src="https://codepen.io/alca/pen/BaPaGVZ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/BaPaGVZ" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 20, 2022</td>
+		<td>Dec 23, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/BaPaGYR" rel="nofollow"><img src="https://codepen.io/alca/pen/BaPaGYR/image/default.png" width="100" height="56.25"></a></td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/bGjbbqe" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Dec 16, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/poKMRXz" rel="nofollow"><img src="https://codepen.io/alca/pen/poKMRXz/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/poKMRXz" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 15, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 22 Dec 2022 05:01:24 GMT
+###### Last updated: Fri, 23 Dec 2022 05:01:25 GMT
 -->
