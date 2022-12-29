@@ -10,8 +10,18 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
-		<td><a href="https://codepen.io/Alca/pen/oNMbGWL" rel="nofollow"><img src="https://codepen.io/alca/pen/oNMbGWL/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/oNMbGWL" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td><a href="https://codepen.io/Alca/pen/gOjPVyw" rel="nofollow"><img src="https://codepen.io/alca/pen/gOjPVyw/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/gOjPVyw" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Dec 29, 2022</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/mdjVKyO" rel="nofollow"><img src="https://codepen.io/alca/pen/mdjVKyO/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/mdjVKyO" rel="nofollow">Houndstooth</a></td>
+		<td>Dec 28, 2022</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/jOpWzjM" rel="nofollow"><img src="https://codepen.io/alca/pen/jOpWzjM/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/jOpWzjM" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Dec 28, 2022</td>
 	</tr>
 	<tr>
@@ -49,19 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/eYjYxXe" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Dec 20, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/BaPaGVZ" rel="nofollow"><img src="https://codepen.io/alca/pen/BaPaGVZ/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/BaPaGVZ" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 23, 2022</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/BaPaGYR" rel="nofollow"><img src="https://codepen.io/alca/pen/BaPaGYR/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/BaPaGYR" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 20, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Wed, 28 Dec 2022 05:01:18 GMT
+###### Last updated: Thu, 29 Dec 2022 05:01:16 GMT
 -->
