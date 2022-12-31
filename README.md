@@ -10,9 +10,14 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/MWByxGa" rel="nofollow"><img src="https://codepen.io/alca/pen/MWByxGa/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/MWByxGa" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Dec 31, 2022</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/xxJVEBB" rel="nofollow"><img src="https://codepen.io/alca/pen/xxJVEBB/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/xxJVEBB" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 30, 2022</td>
+		<td><a href="https://codepen.io/Alca/pen/xxJVEBB" rel="nofollow">Nurbs 3D rendering</a></td>
+		<td>Dec 31, 2022</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/zYLqBqB" rel="nofollow"><img src="https://codepen.io/alca/pen/zYLqBqB/image/default.png" width="100" height="56.25"></a></td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/NWBGMvv" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Dec 27, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/XWBbavJ" rel="nofollow"><img src="https://codepen.io/alca/pen/XWBbavJ/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/XWBbavJ" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 27, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Fri, 30 Dec 2022 05:01:21 GMT
+###### Last updated: Sat, 31 Dec 2022 05:01:25 GMT
 -->
