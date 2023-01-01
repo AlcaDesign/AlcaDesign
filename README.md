@@ -11,7 +11,7 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/MWByxGa" rel="nofollow"><img src="https://codepen.io/alca/pen/MWByxGa/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/MWByxGa" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td><a href="https://codepen.io/Alca/pen/MWByxGa" rel="nofollow">Twitch Following Count</a></td>
 		<td>Dec 31, 2022</td>
 	</tr>
 	<tr>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Sat, 31 Dec 2022 05:01:25 GMT
+###### Last updated: Sun, 01 Jan 2023 05:01:12 GMT
 -->
