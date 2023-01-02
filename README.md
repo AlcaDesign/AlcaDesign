@@ -10,6 +10,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/RwBRpJz" rel="nofollow"><img src="https://codepen.io/alca/pen/RwBRpJz/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/RwBRpJz" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 2, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/JjBKYOW" rel="nofollow"><img src="https://codepen.io/alca/pen/JjBKYOW/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/JjBKYOW" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 1, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/MWByxGa" rel="nofollow"><img src="https://codepen.io/alca/pen/MWByxGa/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/MWByxGa" rel="nofollow">Twitch Following Count</a></td>
 		<td>Dec 31, 2022</td>
@@ -49,19 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/ExpVqBq" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Dec 27, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/LYBpwgY" rel="nofollow"><img src="https://codepen.io/alca/pen/LYBpwgY/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/LYBpwgY" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 27, 2022</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/NWBGMvv" rel="nofollow"><img src="https://codepen.io/alca/pen/NWBGMvv/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/NWBGMvv" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Dec 27, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sun, 01 Jan 2023 05:01:12 GMT
+###### Last updated: Mon, 02 Jan 2023 05:01:23 GMT
 -->
