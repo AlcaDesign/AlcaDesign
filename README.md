@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/VwBPKqX" rel="nofollow"><img src="https://codepen.io/alca/pen/VwBPKqX/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/VwBPKqX" rel="nofollow">Genuary 2023 - 2  - Made in 1...</a></td>
+		<td>Jan 8, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/RwBodKR" rel="nofollow"><img src="https://codepen.io/alca/pen/RwBodKR/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/RwBodKR" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 7, 2023</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/MWByxGa" rel="nofollow">Twitch Following Count</a></td>
 		<td>Dec 31, 2022</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/xxJVEBB" rel="nofollow"><img src="https://codepen.io/alca/pen/xxJVEBB/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/xxJVEBB" rel="nofollow">Nurbs 3D rendering</a></td>
-		<td>Dec 31, 2022</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 07 Jan 2023 05:01:12 GMT
+###### Last updated: Sun, 08 Jan 2023 05:01:24 GMT
 -->
