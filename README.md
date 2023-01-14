@@ -10,6 +10,21 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/RwBgqWe" rel="nofollow"><img src="https://codepen.io/alca/pen/RwBgqWe/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/RwBgqWe" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 14, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/mdjwOjK" rel="nofollow"><img src="https://codepen.io/alca/pen/mdjwOjK/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/mdjwOjK" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 13, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/QWBgKPV" rel="nofollow"><img src="https://codepen.io/alca/pen/QWBgKPV/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/QWBgKPV" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 13, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/WNKjQVX" rel="nofollow"><img src="https://codepen.io/alca/pen/WNKjQVX/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/WNKjQVX" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 11, 2023</td>
@@ -44,24 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/oNMzRPK" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 5, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/WNKGRez" rel="nofollow"><img src="https://codepen.io/alca/pen/WNKGRez/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/WNKGRez" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jan 4, 2023</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/rNrLwLN" rel="nofollow"><img src="https://codepen.io/alca/pen/rNrLwLN/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/rNrLwLN" rel="nofollow">Custom Puzzle</a></td>
-		<td>Jan 2, 2023</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/yLqJbpq" rel="nofollow"><img src="https://codepen.io/alca/pen/yLqJbpq/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/yLqJbpq" rel="nofollow">Difficult Square Rainbow Puzz...</a></td>
-		<td>Jan 5, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Fri, 13 Jan 2023 05:01:22 GMT
+###### Last updated: Sat, 14 Jan 2023 05:01:12 GMT
 -->
