@@ -10,6 +10,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/gOjRJxv" rel="nofollow"><img src="https://codepen.io/alca/pen/gOjRJxv/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/gOjRJxv" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 15, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/gOjRyvL" rel="nofollow"><img src="https://codepen.io/alca/pen/gOjRyvL/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/gOjRyvL" rel="nofollow">Did you know canvas had...</a></td>
+		<td>Jan 14, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/RwBgqWe" rel="nofollow"><img src="https://codepen.io/alca/pen/RwBgqWe/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/RwBgqWe" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 14, 2023</td>
@@ -49,19 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/RwBodKR" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 7, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/bGjBbxq" rel="nofollow"><img src="https://codepen.io/alca/pen/bGjBbxq/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/bGjBbxq" rel="nofollow">Simple Spring Animation</a></td>
-		<td>Jan 6, 2023</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/oNMzRPK" rel="nofollow"><img src="https://codepen.io/alca/pen/oNMzRPK/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/oNMzRPK" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jan 5, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sat, 14 Jan 2023 05:01:12 GMT
+###### Last updated: Sun, 15 Jan 2023 05:01:33 GMT
 -->
