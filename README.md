@@ -10,6 +10,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/XWBVWLj" rel="nofollow"><img src="https://codepen.io/alca/pen/XWBVWLj/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/XWBVWLj" rel="nofollow">Sparkly Stars</a></td>
+		<td>Jan 20, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/KKBZKjP" rel="nofollow"><img src="https://codepen.io/alca/pen/KKBZKjP/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/KKBZKjP" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jan 20, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/PoBJVgE" rel="nofollow"><img src="https://codepen.io/alca/pen/PoBJVgE/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/PoBJVgE" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 18, 2023</td>
@@ -49,19 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/KKBWYwe" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 11, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/ExpZGYY" rel="nofollow"><img src="https://codepen.io/alca/pen/ExpZGYY/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/ExpZGYY" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jan 9, 2023</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/VwBPKqX" rel="nofollow"><img src="https://codepen.io/alca/pen/VwBPKqX/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/VwBPKqX" rel="nofollow">Genuary 2023 - 2  - Made in 1...</a></td>
-		<td>Jan 8, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 19 Jan 2023 05:01:24 GMT
+###### Last updated: Fri, 20 Jan 2023 05:01:23 GMT
 -->
