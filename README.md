@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/QWBmoma" rel="nofollow"><img src="https://codepen.io/alca/pen/QWBmoma/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/QWBmoma" rel="nofollow">OBS Scene Search 2.0</a></td>
+		<td>Jan 26, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/gOjeQQW" rel="nofollow"><img src="https://codepen.io/alca/pen/gOjeQQW/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/gOjeQQW" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 25, 2023</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/mdjwOjK" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 13, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/QWBgKPV" rel="nofollow"><img src="https://codepen.io/alca/pen/QWBgKPV/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/QWBgKPV" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jan 13, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Wed, 25 Jan 2023 05:01:25 GMT
+###### Last updated: Thu, 26 Jan 2023 05:01:25 GMT
 -->
