@@ -11,7 +11,7 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWBPozB" rel="nofollow"><img src="https://codepen.io/alca/pen/XWBPozB/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/XWBPozB" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td><a href="https://codepen.io/Alca/pen/XWBPozB" rel="nofollow">CodeWars Kata Code Challenge ...</a></td>
 		<td>Jan 31, 2023</td>
 	</tr>
 	<tr>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Tue, 31 Jan 2023 05:01:14 GMT
+###### Last updated: Wed, 01 Feb 2023 05:01:14 GMT
 -->
