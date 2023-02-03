@@ -10,9 +10,14 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/xxJmWqG" rel="nofollow"><img src="https://codepen.io/alca/pen/xxJmWqG/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/xxJmWqG" rel="nofollow">CodingGarden email design</a></td>
+		<td>Feb 3, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/XWBPozB" rel="nofollow"><img src="https://codepen.io/alca/pen/XWBPozB/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/XWBPozB" rel="nofollow">CodeWars Kata Code Challenge ...</a></td>
-		<td>Jan 31, 2023</td>
+		<td>Feb 3, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/QWBmoma" rel="nofollow"><img src="https://codepen.io/alca/pen/QWBmoma/image/default.png" width="100" height="56.25"></a></td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/gOjRyvL" rel="nofollow">Did you know canvas had...</a></td>
 		<td>Jan 14, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/RwBgqWe" rel="nofollow"><img src="https://codepen.io/alca/pen/RwBgqWe/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/RwBgqWe" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jan 14, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Thu, 02 Feb 2023 05:01:25 GMT
+###### Last updated: Fri, 03 Feb 2023 05:01:23 GMT
 -->
