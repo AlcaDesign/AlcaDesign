@@ -10,6 +10,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/GRBzdrG" rel="nofollow"><img src="https://codepen.io/alca/pen/GRBzdrG/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/GRBzdrG" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 4, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/jOpdZXG" rel="nofollow"><img src="https://codepen.io/alca/pen/jOpdZXG/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/jOpdZXG" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 4, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/xxJmWqG" rel="nofollow"><img src="https://codepen.io/alca/pen/xxJmWqG/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/xxJmWqG" rel="nofollow">CodingGarden email design</a></td>
 		<td>Feb 3, 2023</td>
@@ -49,19 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/PoBJVgE" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Jan 18, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/gOjRJxv" rel="nofollow"><img src="https://codepen.io/alca/pen/gOjRJxv/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/gOjRJxv" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Jan 15, 2023</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/gOjRyvL" rel="nofollow"><img src="https://codepen.io/alca/pen/gOjRyvL/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/gOjRyvL" rel="nofollow">Did you know canvas had...</a></td>
-		<td>Jan 14, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Fri, 03 Feb 2023 05:01:23 GMT
+###### Last updated: Sat, 04 Feb 2023 05:01:12 GMT
 -->
