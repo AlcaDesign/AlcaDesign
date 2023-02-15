@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/rNZNPwq" rel="nofollow"><img src="https://codepen.io/alca/pen/rNZNPwq/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/rNZNPwq" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Feb 15, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/KKxKPVQ" rel="nofollow"><img src="https://codepen.io/alca/pen/KKxKPVQ/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/KKxKPVQ" rel="nofollow">eCDP Serial Code Generator...</a></td>
 		<td>Feb 14, 2023</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/xxJmWqG" rel="nofollow">CodingGarden email design</a></td>
 		<td>Feb 3, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/XWBPozB" rel="nofollow"><img src="https://codepen.io/alca/pen/XWBPozB/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/XWBPozB" rel="nofollow">CodeWars Kata Code Challenge ...</a></td>
-		<td>Feb 3, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Tue, 14 Feb 2023 05:01:31 GMT
+###### Last updated: Wed, 15 Feb 2023 05:01:20 GMT
 -->
