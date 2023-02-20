@@ -31,8 +31,8 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/VwBOPqw" rel="nofollow"><img src="https://codepen.io/alca/pen/VwBOPqw/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/VwBOPqw" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Feb 8, 2023</td>
+		<td><a href="https://codepen.io/Alca/pen/VwBOPqw" rel="nofollow">Interactive Photo Cards -...</a></td>
+		<td>Feb 19, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/bGjyVNV" rel="nofollow"><img src="https://codepen.io/alca/pen/bGjyVNV/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Sun, 19 Feb 2023 05:01:17 GMT
+###### Last updated: Mon, 20 Feb 2023 05:01:30 GMT
 -->
