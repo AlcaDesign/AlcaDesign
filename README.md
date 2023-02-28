@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/ZEMLYov" rel="nofollow"><img src="https://codepen.io/alca/pen/ZEMLYov/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/ZEMLYov" rel="nofollow">Particality</a></td>
+		<td>Feb 28, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/rNZNPwq" rel="nofollow"><img src="https://codepen.io/alca/pen/rNZNPwq/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/rNZNPwq" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Feb 15, 2023</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/jOpdZXG" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Feb 4, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/xxJmWqG" rel="nofollow"><img src="https://codepen.io/alca/pen/xxJmWqG/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/xxJmWqG" rel="nofollow">CodingGarden email design</a></td>
-		<td>Feb 3, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 27 Feb 2023 05:01:34 GMT
+###### Last updated: Tue, 28 Feb 2023 05:01:31 GMT
 -->
