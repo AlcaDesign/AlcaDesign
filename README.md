@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/ZEMJRNJ" rel="nofollow"><img src="https://codepen.io/alca/pen/ZEMJRNJ/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/ZEMJRNJ" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Mar 7, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/NWLgMwo" rel="nofollow"><img src="https://codepen.io/alca/pen/NWLgMwo/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/NWLgMwo" rel="nofollow">BIG CLOCK</a></td>
 		<td>Mar 5, 2023</td>
@@ -22,7 +27,7 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/bGxRewr" rel="nofollow"><img src="https://codepen.io/alca/pen/bGxRewr/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/bGxRewr" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Mar 5, 2023</td>
+		<td>Mar 7, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/ZEMLYov" rel="nofollow"><img src="https://codepen.io/alca/pen/ZEMLYov/image/default.png" width="100" height="56.25"></a></td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/VwBOPqw" rel="nofollow">Interactive Photo Cards -...</a></td>
 		<td>Feb 19, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/bGjyVNV" rel="nofollow"><img src="https://codepen.io/alca/pen/bGjyVNV/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/bGjyVNV" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Feb 8, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 06 Mar 2023 05:01:30 GMT
+###### Last updated: Tue, 07 Mar 2023 05:01:23 GMT
 -->
