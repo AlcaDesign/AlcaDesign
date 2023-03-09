@@ -31,8 +31,8 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/bGxRewr" rel="nofollow"><img src="https://codepen.io/alca/pen/bGxRewr/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/bGxRewr" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Mar 7, 2023</td>
+		<td><a href="https://codepen.io/Alca/pen/bGxRewr" rel="nofollow">Beziers in 3D ish</a></td>
+		<td>Mar 8, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/ZEMLYov" rel="nofollow"><img src="https://codepen.io/alca/pen/ZEMLYov/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Wed, 08 Mar 2023 05:01:24 GMT
+###### Last updated: Thu, 09 Mar 2023 05:01:11 GMT
 -->
