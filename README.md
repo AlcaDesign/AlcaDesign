@@ -27,17 +27,17 @@
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/abaKOeg" rel="nofollow"><img src="https://codepen.io/alca/pen/abaKOeg/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/abaKOeg" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Mar 16, 2023</td>
+		<td>Mar 21, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/wvEymYV" rel="nofollow"><img src="https://codepen.io/alca/pen/wvEymYV/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/wvEymYV" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Mar 13, 2023</td>
+		<td>Mar 21, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/JjapOdE" rel="nofollow"><img src="https://codepen.io/alca/pen/JjapOdE/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/JjapOdE" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Mar 13, 2023</td>
+		<td>Mar 21, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/VwGMvPO" rel="nofollow"><img src="https://codepen.io/alca/pen/VwGMvPO/image/default.png" width="100" height="56.25"></a></td>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Tue, 21 Mar 2023 05:01:22 GMT
+###### Last updated: Wed, 22 Mar 2023 05:01:20 GMT
 -->
