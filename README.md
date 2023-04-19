@@ -31,7 +31,7 @@
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/GRYqJzo" rel="nofollow"><img src="https://codepen.io/alca/pen/GRYqJzo/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/GRYqJzo" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td><a href="https://codepen.io/Alca/pen/GRYqJzo" rel="nofollow">A Coding Interview Test - Pas...</a></td>
 		<td>Apr 18, 2023</td>
 	</tr>
 	<tr>
@@ -63,5 +63,5 @@
 
 ---
 
-###### Last updated: Tue, 18 Apr 2023 05:01:32 GMT
+###### Last updated: Wed, 19 Apr 2023 05:01:10 GMT
 -->
