@@ -10,6 +10,21 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/abRJYrj" rel="nofollow"><img src="https://codepen.io/alca/pen/abRJYrj/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/abRJYrj" rel="nofollow">Trail Map</a></td>
+		<td>Apr 25, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/JjmWXqy" rel="nofollow"><img src="https://codepen.io/alca/pen/JjmWXqy/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/JjmWXqy" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Apr 25, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/NWOpNoV" rel="nofollow"><img src="https://codepen.io/alca/pen/NWOpNoV/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/NWOpNoV" rel="nofollow">Get Twitch User Data</a></td>
+		<td>Apr 24, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/xxygdER" rel="nofollow"><img src="https://codepen.io/alca/pen/xxygdER/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/xxygdER" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Apr 22, 2023</td>
@@ -44,24 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/LYgZpmG" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Apr 17, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/GRYqJzo" rel="nofollow"><img src="https://codepen.io/alca/pen/GRYqJzo/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/GRYqJzo" rel="nofollow">A Coding Interview Test - Pas...</a></td>
-		<td>Apr 18, 2023</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/JjmXEVb" rel="nofollow"><img src="https://codepen.io/alca/pen/JjmXEVb/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/JjmXEVb" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Apr 17, 2023</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/GRYpvge" rel="nofollow"><img src="https://codepen.io/alca/pen/GRYpvge/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/GRYpvge" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Apr 12, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 24 Apr 2023 05:01:21 GMT
+###### Last updated: Tue, 25 Apr 2023 05:01:33 GMT
 -->
