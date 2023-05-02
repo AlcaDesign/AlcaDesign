@@ -10,14 +10,19 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/qBJPRem" rel="nofollow"><img src="https://codepen.io/alca/pen/qBJPRem/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/qBJPRem" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>May 2, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/bGmryLW" rel="nofollow"><img src="https://codepen.io/alca/pen/bGmryLW/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/bGmryLW" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 1, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/WNaEWar" rel="nofollow"><img src="https://codepen.io/alca/pen/WNaEWar/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/WNaEWar" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>May 1, 2023</td>
+		<td><a href="https://codepen.io/Alca/pen/WNaEWar" rel="nofollow">Inspired by Terra Nil</a></td>
+		<td>May 2, 2023</td>
 	</tr>
 	<tr>
 		<td><a href="https://codepen.io/Alca/pen/gOBxvGw" rel="nofollow"><img src="https://codepen.io/alca/pen/gOBxvGw/image/default.png" width="100" height="56.25"></a></td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/xxygdER" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>Apr 22, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/YzJpMjZ" rel="nofollow"><img src="https://codepen.io/alca/pen/YzJpMjZ/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/YzJpMjZ" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Apr 21, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Mon, 01 May 2023 05:01:24 GMT
+###### Last updated: Tue, 02 May 2023 05:01:20 GMT
 -->
