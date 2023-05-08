@@ -10,6 +10,16 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/mdzXRKV" rel="nofollow"><img src="https://codepen.io/alca/pen/mdzXRKV/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/mdzXRKV" rel="nofollow">Twitch - Get Clip (Helix)</a></td>
+		<td>May 7, 2023</td>
+	</tr>
+	<tr>
+		<td><a href="https://codepen.io/Alca/pen/MWPQeKE" rel="nofollow"><img src="https://codepen.io/alca/pen/MWPQeKE/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/MWPQeKE" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>May 7, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/YzJYoOy" rel="nofollow"><img src="https://codepen.io/alca/pen/YzJYoOy/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/YzJYoOy" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 6, 2023</td>
@@ -49,19 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/abRJYrj" rel="nofollow">Trail Map</a></td>
 		<td>Apr 25, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/JjmWXqy" rel="nofollow"><img src="https://codepen.io/alca/pen/JjmWXqy/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/JjmWXqy" rel="nofollow">A Pen by Jacob Foster</a></td>
-		<td>Apr 25, 2023</td>
-	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/NWOpNoV" rel="nofollow"><img src="https://codepen.io/alca/pen/NWOpNoV/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/NWOpNoV" rel="nofollow">Get Twitch User Data</a></td>
-		<td>Apr 24, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Sun, 07 May 2023 05:01:23 GMT
+###### Last updated: Mon, 08 May 2023 05:01:31 GMT
 -->
