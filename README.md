@@ -10,6 +10,11 @@
 		<th>Last updated</th>
 	</tr>
 	<tr>
+		<td><a href="https://codepen.io/Alca/pen/WNYNegO" rel="nofollow"><img src="https://codepen.io/alca/pen/WNYNegO/image/default.png" width="100" height="56.25"></a></td>
+		<td><a href="https://codepen.io/Alca/pen/WNYNegO" rel="nofollow">A Pen by Jacob Foster</a></td>
+		<td>Jun 7, 2023</td>
+	</tr>
+	<tr>
 		<td><a href="https://codepen.io/Alca/pen/GRYzZZY" rel="nofollow"><img src="https://codepen.io/alca/pen/GRYzZZY/image/default.png" width="100" height="56.25"></a></td>
 		<td><a href="https://codepen.io/Alca/pen/GRYzZZY" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 23, 2023</td>
@@ -54,14 +59,9 @@
 		<td><a href="https://codepen.io/Alca/pen/dygmMJd" rel="nofollow">A Pen by Jacob Foster</a></td>
 		<td>May 9, 2023</td>
 	</tr>
-	<tr>
-		<td><a href="https://codepen.io/Alca/pen/mdzXRKV" rel="nofollow"><img src="https://codepen.io/alca/pen/mdzXRKV/image/default.png" width="100" height="56.25"></a></td>
-		<td><a href="https://codepen.io/Alca/pen/mdzXRKV" rel="nofollow">Twitch - Get Clip (Helix)</a></td>
-		<td>May 7, 2023</td>
-	</tr>
 </table>
 
 ---
 
-###### Last updated: Tue, 06 Jun 2023 05:01:16 GMT
+###### Last updated: Wed, 07 Jun 2023 05:01:36 GMT
 -->
